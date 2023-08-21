@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Segoe UI';
+}
+.header-top{
+    background: #039ee3;
+}
+.header-top .container .row li a{
+    color: #fff;
+}
+.header-top .container .row li span{
+    color: #fff;
+    font-size: 13px;
+}
+.header-top .container .row li svg{
+    color: #fff;
+}
+.header-top .container .col-4 button{
+    margin-top: 5px;
+}
+.header-bottom .logo img{
+    height: 80px;
+}
+.section .row .card{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.container .row .col .card-body{
+    background: #000;
+    color: #fff;
+}
+.col-md-6 form{
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 2em;
+}
+.col-md-6 form .input-group{
+    padding: 1em;
+}
+.col-md-6 form button{
+    align-items: end;
+}
+h1{
+    font-size: 20px;
+}
+.container td img{
+    height: 90px;
+}
